@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-11T17:13:42 IST" name="Default suite" finished-at="2025-01-11T17:13:56 IST" duration-ms="13902">
+    <groups>
+    </groups>
+    <test started-at="2025-01-11T17:13:42 IST" name="Default test" finished-at="2025-01-11T17:13:56 IST" duration-ms="13902">
+      <class name="org.Sample.PrashulOrange.Shopify">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:42 IST" name="SetUp" finished-at="2025-01-11T17:13:42 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method is-config="true" signature="testbefore()[pri:0, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:42 IST" name="testbefore" finished-at="2025-01-11T17:13:43 IST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbefore -->
+        <test-method signature="VerifyPageTitle()[pri:1, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:43 IST" name="VerifyPageTitle" finished-at="2025-01-11T17:13:43 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyPageTitle -->
+        <test-method is-config="true" signature="testbefore()[pri:0, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:43 IST" name="testbefore" finished-at="2025-01-11T17:13:43 IST" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testbefore -->
+        <test-method signature="testvalidatePlaceOrder()[pri:2, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:43 IST" name="testvalidatePlaceOrder" finished-at="2025-01-11T17:13:56 IST" duration-ms="12507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testvalidatePlaceOrder -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:56 IST" name="teardown" finished-at="2025-01-11T17:13:56 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.Sample.PrashulOrange.Shopify@4ebea12c]" started-at="2025-01-11T17:13:56 IST" name="tearDown" finished-at="2025-01-11T17:13:56 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- org.Sample.PrashulOrange.Shopify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
